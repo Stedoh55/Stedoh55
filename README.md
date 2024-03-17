@@ -6,11 +6,7 @@
 # I’m looking to collaborate on 
 - Web development and dart programming
 # How to reach me 
-- <a href="https://twitter.com/stedoh_tz">
-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
-    <!-- SVG path here -->
-  </svg>
-</a>
+
     
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
