@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Steven Simoni
-- 👀 I’m interested in Data analysis and Web development
-- 🌱 I’m currently learning Web Development, Dart and Database
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me 
+# 👋 Hi, I’m Steven Simoni
+# I’m interested in 
+- Data analysis and Web development
+# I’m currently learning 
+- Web Development, Dart and Database
+# I’m looking to collaborate on 
+- Web development and dart programming
+# How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
