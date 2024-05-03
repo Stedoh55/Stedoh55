@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Steven Simoni
+[![committers.top badge](https://user-badge.committers.top/tanzania_public/Stedoh55.svg)](https://user-badge.committers.top/tanzania_public/Stedoh55)
 # I’m interested in 
 - Data analysis and Web development
 # I’m currently learning 
